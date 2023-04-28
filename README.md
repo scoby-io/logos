@@ -1,1 +1,1 @@
-# logos
+# Scoby Analytics: Logos
